@@ -5,3 +5,7 @@ This repository contains the following files:
 An Excel file containing trajectory data for cell migration.
 
 All files and software were tested on Windows 10.
+
+To run the codes, ensure that all files are stored in the same folder.
+
+Interested readers are referred to references (36) and (61) of the paper for more details.
